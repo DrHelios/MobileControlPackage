@@ -1,11 +1,10 @@
 {
-    "name": "com.unity.MobileController",
-    "displayName": "Package MobileController",
-    "version": "2.5.1",
-    "unity": "2019.3",
-    "description": "This package provides mobile controllers on android.",
-    "keywords": ["mobile", "controls"],
-    "category": "Controllers",
-    "dependencies": {
-    }
+  "name": "com.drhelios.mobilecontroller",
+  "displayName": "Mobile Controller",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "keywords": [],
+  "description": "Mobile Controller !",
+  "dependencies": {
+   }
 }
